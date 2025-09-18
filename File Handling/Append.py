@@ -4,3 +4,5 @@ with open("C:/Users/susha/OneDrive/Desktop/FSD/Python Basic/File Handling/demo.t
     # open and read the file after the appending:
     with open("C:/Users/susha/OneDrive/Desktop/FSD/Python Basic/File Handling/demo.txt") as f:
         print(f.read())
+
+
